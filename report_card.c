@@ -1,1 +1,9 @@
-Add knapsack problem PDF
+packing knapsack: Change basic code
+
+Previous basic code hadn't data structures.
+And functions they contain were ambiguous
+so change this infrastructure code following normal way
+already known.
+
+
+asdfasdfasdf
